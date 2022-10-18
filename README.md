@@ -1,3 +1,15 @@
+# Crear aplicacion
+
+`npx create-react-app gofun`
+
+# Instalar paquete react-boostrap
+
+`npm install react-bootstrap bootstrap`
+
+# Instalar paquete UUID
+
+`npm install uuid`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
