@@ -11,6 +11,7 @@ function App() {
   // Creamos una función que recibe el banda nuevo y lo agrega a la lista de lineUp.
   const agregarBanda = (banda) => {
     editarLineUp([...lineUp, banda]);
+    console.log(lineUp);
   };
 
   return (

@@ -67,8 +67,8 @@ const Formulario = ({ agregarBanda }) => {
         <Form.Group>
           <Form.Label>Hora</Form.Label>
           <Form.Control
-            type='text'
-            placeholder='Sin puntos ni espacios'
+            type='time'
+            placeholder='En formato HH:MM'
             name='hora'
             onChange={handleChange}
             value={hora}
